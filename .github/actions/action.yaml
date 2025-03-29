@@ -22,5 +22,5 @@ runs:
       shell: bash
     - name: Get result
       id: get-results
-      run: python src/main
+      run: python src/main.py
       shell: bash
